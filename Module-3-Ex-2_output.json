@@ -1,0 +1,92 @@
+{
+  "data": {
+    "councillors": {
+      "nodes": [
+        {
+          "id": "1363HWTPzDrzAQ6ChFiMU6mP4b6jmQid2ae55JQcKtZnpLGv",
+          "numberOfVotes": 3,
+          "voteHistory": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "14ShUZUYUR35RBZW6uVVt1zXDxmSQddkeDdXf1JkMA6P721N",
+          "numberOfVotes": 3,
+          "voteHistory": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "15aKvwRqGVAwuBMaogtQXhuz9EQqUWsZJSAzomyb5xYwgBXA",
+          "numberOfVotes": 3,
+          "voteHistory": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "128qRiVjxU3TuT37tg7AX99zwqfPtj2t4nDKUv9Dvi5wzxuF",
+          "numberOfVotes": 2,
+          "voteHistory": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "12hAtDZJGt4of3m2GqZcUCVAjZPALfvPwvtUTFZPQUbdX1Ud",
+          "numberOfVotes": 2,
+          "voteHistory": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "approvedVote": true
+              },
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
